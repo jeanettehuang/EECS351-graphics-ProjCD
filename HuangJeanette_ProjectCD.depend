@@ -1,0 +1,600 @@
+# depslib dependency file v1.0
+1361683582 source:/Users/vanessafang/Desktop/ProjectC/VF_ProjectC/progShader.cpp
+	"progShader.h"
+
+1361645856 /Users/vanessafang/Desktop/ProjectC/VF_ProjectC/progShader.h
+	<GL\glew.h>
+	<GL\freeglut.h>
+	<GL/GL.h>
+	<GL/Glu.h>
+	<GL/glext.h>
+	<GLUT/glut.h>
+	<OpenGL/GL.h>
+	<OpenGL/Glu.h>
+	<OpenGL/GLext.h>
+	<unistd.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glext.h>
+	<string>
+	<iostream>
+	<fstream>
+	<string>
+
+1361683917 source:/Users/vanessafang/Desktop/ProjectC/VF_ProjectC/projectC.cpp
+	"projectC.h"
+
+1361649240 /Users/vanessafang/Desktop/ProjectC/VF_ProjectC/projectC.h
+	<GL\glew.h>
+	<GL\freeglut.h>
+	<GL/GL.h>
+	<GL/Glu.h>
+	<GL/glext.h>
+	<GLUT/glut.h>
+	<OpenGL/GL.h>
+	<OpenGL/Glu.h>
+	<OpenGL/GLext.h>
+	<unistd.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glext.h>
+	<iostream>
+	"lampMatl_01.h"
+	<math.h>
+	<string>
+	"progShader.h"
+
+1297352418 source:/Users/vanessafang/Desktop/ProjectC/VF_ProjectC/lampMatl_01.cpp
+	"lampMatl_01.h"
+
+1297351828 /Users/vanessafang/Desktop/ProjectC/VF_ProjectC/lampMatl_01.h
+	<GL/freeglut.h>
+	<GL/GL.h>
+	<GL/Glu.h>
+	<GL/glext.h>
+	<GLUT/glut.h>
+	<OpenGL/GL.h>
+	<OpenGL/Glu.h>
+	<OpenGL/GLext.h>
+	<unistd.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glext.h>
+	<iostream>
+	"my_vecmat.h"
+
+1297352418 /Users/vanessafang/Desktop/ProjectC/VF_ProjectC/my_vecmat.h
+	<math.h>
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<assert.h>
+
+1361682317 source:/Users/vanessafang/Desktop/ProjectC/VF_ProjectC/my_vecmat.cpp
+	"my_vecmat.h"
+
+1361683582 source:/Users/Jeanette/Downloads/VF_ProjectC/progShader.cpp
+	"progShader.h"
+
+1361645856 /Users/Jeanette/Downloads/VF_ProjectC/progShader.h
+	<GL\glew.h>
+	<GL\freeglut.h>
+	<GL/GL.h>
+	<GL/Glu.h>
+	<GL/glext.h>
+	<GLUT/glut.h>
+	<OpenGL/GL.h>
+	<OpenGL/Glu.h>
+	<OpenGL/GLext.h>
+	<unistd.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glext.h>
+	<string>
+	<iostream>
+	<fstream>
+	<string>
+
+1361762676 source:/Users/Jeanette/Downloads/VF_ProjectC/projectC.cpp
+	"projectC.h"
+
+1361757418 /Users/Jeanette/Downloads/VF_ProjectC/projectC.h
+	<GL\glew.h>
+	<GL\freeglut.h>
+	<GL/GL.h>
+	<GL/Glu.h>
+	<GL/glext.h>
+	<GLUT/glut.h>
+	<OpenGL/GL.h>
+	<OpenGL/Glu.h>
+	<OpenGL/GLext.h>
+	<unistd.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glext.h>
+	<iostream>
+	"lampMatl_01.h"
+	<math.h>
+	<string>
+	"progShader.h"
+
+1297351828 /Users/Jeanette/Downloads/VF_ProjectC/lampMatl_01.h
+	<GL/freeglut.h>
+	<GL/GL.h>
+	<GL/Glu.h>
+	<GL/glext.h>
+	<GLUT/glut.h>
+	<OpenGL/GL.h>
+	<OpenGL/Glu.h>
+	<OpenGL/GLext.h>
+	<unistd.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glext.h>
+	<iostream>
+	"my_vecmat.h"
+
+1297352418 /Users/Jeanette/Downloads/VF_ProjectC/my_vecmat.h
+	<math.h>
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<assert.h>
+
+1361761994 source:/Users/Jeanette/Downloads/VF_ProjectC/lampMatl_01.cpp
+	"lampMatl_01.h"
+
+1361682317 source:/Users/Jeanette/Downloads/VF_ProjectC/my_vecmat.cpp
+	"my_vecmat.h"
+
+1361788618 source:/Users/Jeanette/Desktop/HuangJeanete_ProjC/progShader.cpp
+	"progShader.h"
+
+1361788618 /Users/Jeanette/Desktop/HuangJeanete_ProjC/progShader.h
+	<GL\glew.h>
+	<GL\freeglut.h>
+	<GL/GL.h>
+	<GL/Glu.h>
+	<GL/glext.h>
+	<GLUT/glut.h>
+	<OpenGL/GL.h>
+	<OpenGL/Glu.h>
+	<OpenGL/GLext.h>
+	<unistd.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glext.h>
+	<string>
+	<iostream>
+	<fstream>
+	<string>
+
+1361787721 source:/Users/Jeanette/Desktop/HuangJeanete_ProjC/projectC.cpp
+	"projectC.h"
+
+1361786813 /Users/Jeanette/Desktop/HuangJeanete_ProjC/projectC.h
+	<GL\glew.h>
+	<GL\freeglut.h>
+	<GL/GL.h>
+	<GL/Glu.h>
+	<GL/glext.h>
+	<GLUT/glut.h>
+	<OpenGL/GL.h>
+	<OpenGL/Glu.h>
+	<OpenGL/GLext.h>
+	<unistd.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glext.h>
+	<iostream>
+	"lampMatl_01.h"
+	<math.h>
+	<string>
+	"progShader.h"
+
+1361788618 /Users/Jeanette/Desktop/HuangJeanete_ProjC/lampMatl_01.h
+	<GL/freeglut.h>
+	<GL/GL.h>
+	<GL/Glu.h>
+	<GL/glext.h>
+	<GLUT/glut.h>
+	<OpenGL/GL.h>
+	<OpenGL/Glu.h>
+	<OpenGL/GLext.h>
+	<unistd.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glext.h>
+	<iostream>
+	"my_vecmat.h"
+
+1361788618 /Users/Jeanette/Desktop/HuangJeanete_ProjC/my_vecmat.h
+	<math.h>
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<assert.h>
+
+1361788618 source:/Users/Jeanette/Desktop/HuangJeanete_ProjC/lampMatl_01.cpp
+	"lampMatl_01.h"
+
+1361788618 source:/Users/Jeanette/Desktop/HuangJeanete_ProjC/my_vecmat.cpp
+	"my_vecmat.h"
+
+1361788618 source:/Users/Jeanette/Desktop/HuangJeanete_ProjC/HuangJeanette_ProjC.cpp
+	"HuangJeanette_ProjC.h"
+
+1361788618 /Users/Jeanette/Desktop/HuangJeanete_ProjC/HuangJeanette_ProjC.h
+	<GL\glew.h>
+	<GL\freeglut.h>
+	<GL/GL.h>
+	<GL/Glu.h>
+	<GL/glext.h>
+	<GLUT/glut.h>
+	<OpenGL/GL.h>
+	<OpenGL/Glu.h>
+	<OpenGL/GLext.h>
+	<unistd.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glext.h>
+	<iostream>
+	"lampMatl_01.h"
+	<math.h>
+	<string>
+	"progShader.h"
+
+1361860200 source:/Users/Jeanette/Desktop/HuangJeanette_ProjC/HuangJeanette_ProjC.cpp
+	"HuangJeanette_ProjC.h"
+
+1361811664 /Users/Jeanette/Desktop/HuangJeanette_ProjC/HuangJeanette_ProjC.h
+	<GL\glew.h>
+	<GL\freeglut.h>
+	<GL/GL.h>
+	<GL/Glu.h>
+	<GL/glext.h>
+	<GLUT/glut.h>
+	<OpenGL/GL.h>
+	<OpenGL/Glu.h>
+	<OpenGL/GLext.h>
+	<unistd.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glext.h>
+	<iostream>
+	"lampMatl_01.h"
+	<math.h>
+	<string>
+	"progShader.h"
+
+1361811077 /Users/Jeanette/Desktop/HuangJeanette_ProjC/lampMatl_01.h
+	<GL/freeglut.h>
+	<GL/GL.h>
+	<GL/Glu.h>
+	<GL/glext.h>
+	<GLUT/glut.h>
+	<OpenGL/GL.h>
+	<OpenGL/Glu.h>
+	<OpenGL/GLext.h>
+	<unistd.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glext.h>
+	<iostream>
+	"my_vecmat.h"
+
+1361788618 /Users/Jeanette/Desktop/HuangJeanette_ProjC/my_vecmat.h
+	<math.h>
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<assert.h>
+
+1361788618 /Users/Jeanette/Desktop/HuangJeanette_ProjC/progShader.h
+	<GL\glew.h>
+	<GL\freeglut.h>
+	<GL/GL.h>
+	<GL/Glu.h>
+	<GL/glext.h>
+	<GLUT/glut.h>
+	<OpenGL/GL.h>
+	<OpenGL/Glu.h>
+	<OpenGL/GLext.h>
+	<unistd.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glext.h>
+	<string>
+	<iostream>
+	<fstream>
+	<string>
+
+1361811063 source:/Users/Jeanette/Desktop/HuangJeanette_ProjC/lampMatl_01.cpp
+	"lampMatl_01.h"
+
+1361788618 source:/Users/Jeanette/Desktop/HuangJeanette_ProjC/my_vecmat.cpp
+	"my_vecmat.h"
+
+1361788618 source:/Users/Jeanette/Desktop/HuangJeanette_ProjC/progShader.cpp
+	"progShader.h"
+
+1361893842 source:/Users/Jeanette/Desktop/HuangJeanette_ProjC/HuangJeanette_ProjC/HuangJeanette_ProjC.cpp
+	"HuangJeanette_ProjC.h"
+
+1361811664 /Users/Jeanette/Desktop/HuangJeanette_ProjC/HuangJeanette_ProjC/HuangJeanette_ProjC.h
+	<GL\glew.h>
+	<GL\freeglut.h>
+	<GL/GL.h>
+	<GL/Glu.h>
+	<GL/glext.h>
+	<GLUT/glut.h>
+	<OpenGL/GL.h>
+	<OpenGL/Glu.h>
+	<OpenGL/GLext.h>
+	<unistd.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glext.h>
+	<iostream>
+	"lampMatl_01.h"
+	<math.h>
+	<string>
+	"progShader.h"
+
+1361811077 /Users/Jeanette/Desktop/HuangJeanette_ProjC/HuangJeanette_ProjC/lampMatl_01.h
+	<GL/freeglut.h>
+	<GL/GL.h>
+	<GL/Glu.h>
+	<GL/glext.h>
+	<GLUT/glut.h>
+	<OpenGL/GL.h>
+	<OpenGL/Glu.h>
+	<OpenGL/GLext.h>
+	<unistd.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glext.h>
+	<iostream>
+	"my_vecmat.h"
+
+1361788618 /Users/Jeanette/Desktop/HuangJeanette_ProjC/HuangJeanette_ProjC/my_vecmat.h
+	<math.h>
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<assert.h>
+
+1361788618 /Users/Jeanette/Desktop/HuangJeanette_ProjC/HuangJeanette_ProjC/progShader.h
+	<GL\glew.h>
+	<GL\freeglut.h>
+	<GL/GL.h>
+	<GL/Glu.h>
+	<GL/glext.h>
+	<GLUT/glut.h>
+	<OpenGL/GL.h>
+	<OpenGL/Glu.h>
+	<OpenGL/GLext.h>
+	<unistd.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glext.h>
+	<string>
+	<iostream>
+	<fstream>
+	<string>
+
+1361811063 source:/Users/Jeanette/Desktop/HuangJeanette_ProjC/HuangJeanette_ProjC/lampMatl_01.cpp
+	"lampMatl_01.h"
+
+1361788618 source:/Users/Jeanette/Desktop/HuangJeanette_ProjC/HuangJeanette_ProjC/my_vecmat.cpp
+	"my_vecmat.h"
+
+1361788618 source:/Users/Jeanette/Desktop/HuangJeanette_ProjC/HuangJeanette_ProjC/progShader.cpp
+	"progShader.h"
+
+1361893842 source:/Users/Jeanette/Desktop/HuangJeanette_ProjCD/HuangJeanette_ProjC/HuangJeanette_ProjC.cpp
+	"HuangJeanette_ProjC.h"
+
+1361811664 /Users/Jeanette/Desktop/HuangJeanette_ProjCD/HuangJeanette_ProjC/HuangJeanette_ProjC.h
+	<GL\glew.h>
+	<GL\freeglut.h>
+	<GL/GL.h>
+	<GL/Glu.h>
+	<GL/glext.h>
+	<GLUT/glut.h>
+	<OpenGL/GL.h>
+	<OpenGL/Glu.h>
+	<OpenGL/GLext.h>
+	<unistd.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glext.h>
+	<iostream>
+	"lampMatl_01.h"
+	<math.h>
+	<string>
+	"progShader.h"
+
+1361811077 /Users/Jeanette/Desktop/HuangJeanette_ProjCD/HuangJeanette_ProjC/lampMatl_01.h
+	<GL/freeglut.h>
+	<GL/GL.h>
+	<GL/Glu.h>
+	<GL/glext.h>
+	<GLUT/glut.h>
+	<OpenGL/GL.h>
+	<OpenGL/Glu.h>
+	<OpenGL/GLext.h>
+	<unistd.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glext.h>
+	<iostream>
+	"my_vecmat.h"
+
+1361788618 /Users/Jeanette/Desktop/HuangJeanette_ProjCD/HuangJeanette_ProjC/my_vecmat.h
+	<math.h>
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<assert.h>
+
+1361788618 /Users/Jeanette/Desktop/HuangJeanette_ProjCD/HuangJeanette_ProjC/progShader.h
+	<GL\glew.h>
+	<GL\freeglut.h>
+	<GL/GL.h>
+	<GL/Glu.h>
+	<GL/glext.h>
+	<GLUT/glut.h>
+	<OpenGL/GL.h>
+	<OpenGL/Glu.h>
+	<OpenGL/GLext.h>
+	<unistd.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glext.h>
+	<string>
+	<iostream>
+	<fstream>
+	<string>
+
+1361811063 source:/Users/Jeanette/Desktop/HuangJeanette_ProjCD/HuangJeanette_ProjC/lampMatl_01.cpp
+	"lampMatl_01.h"
+
+1361788618 source:/Users/Jeanette/Desktop/HuangJeanette_ProjCD/HuangJeanette_ProjC/my_vecmat.cpp
+	"my_vecmat.h"
+
+1361788618 source:/Users/Jeanette/Desktop/HuangJeanette_ProjCD/HuangJeanette_ProjC/progShader.cpp
+	"progShader.h"
+
+1362416031 source:/Users/Jeanette/Desktop/HuangJeanette_ProjCD/HuangJeanette_ProjCD/HuangJeanette_ProjCD.cpp
+	"HuangJeanette_ProjCD.h"
+
+1362416034 /Users/Jeanette/Desktop/HuangJeanette_ProjCD/HuangJeanette_ProjCD/HuangJeanette_ProjCD.h
+	<GL\glew.h>
+	<GL\freeglut.h>
+	<GL/GL.h>
+	<GL/Glu.h>
+	<GL/glext.h>
+	<GLUT/glut.h>
+	<OpenGL/GL.h>
+	<OpenGL/Glu.h>
+	<OpenGL/GLext.h>
+	<unistd.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glext.h>
+	<iostream>
+	"lampMatl_01.h"
+	<math.h>
+	<string>
+	"progShader.h"
+
+1361811077 /Users/Jeanette/Desktop/HuangJeanette_ProjCD/HuangJeanette_ProjCD/lampMatl_01.h
+	<GL/freeglut.h>
+	<GL/GL.h>
+	<GL/Glu.h>
+	<GL/glext.h>
+	<GLUT/glut.h>
+	<OpenGL/GL.h>
+	<OpenGL/Glu.h>
+	<OpenGL/GLext.h>
+	<unistd.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glext.h>
+	<iostream>
+	"my_vecmat.h"
+
+1361788618 /Users/Jeanette/Desktop/HuangJeanette_ProjCD/HuangJeanette_ProjCD/my_vecmat.h
+	<math.h>
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<assert.h>
+
+1361788618 /Users/Jeanette/Desktop/HuangJeanette_ProjCD/HuangJeanette_ProjCD/progShader.h
+	<GL\glew.h>
+	<GL\freeglut.h>
+	<GL/GL.h>
+	<GL/Glu.h>
+	<GL/glext.h>
+	<GLUT/glut.h>
+	<OpenGL/GL.h>
+	<OpenGL/Glu.h>
+	<OpenGL/GLext.h>
+	<unistd.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glext.h>
+	<string>
+	<iostream>
+	<fstream>
+	<string>
+
+1361811063 source:/Users/Jeanette/Desktop/HuangJeanette_ProjCD/HuangJeanette_ProjCD/lampMatl_01.cpp
+	"lampMatl_01.h"
+
+1361788618 source:/Users/Jeanette/Desktop/HuangJeanette_ProjCD/HuangJeanette_ProjCD/my_vecmat.cpp
+	"my_vecmat.h"
+
+1361788618 source:/Users/Jeanette/Desktop/HuangJeanette_ProjCD/HuangJeanette_ProjCD/progShader.cpp
+	"progShader.h"
+
