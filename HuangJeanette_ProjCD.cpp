@@ -68,6 +68,8 @@ GLdouble    worldLightL = 0.0,
 // Variable to allow user to adjust speed of distortion
 GLdouble    changeDistortSpeed = 0.0;
 
+int start_l = 0, end_l = 1;
+
 GLUquadricObj *pQuad0;		//ptr to the openGL quadric object(s) we'll draw
 CMatl  stuff[9];            // Three material-describing objects.
 CLight lamps[1];            // Two light source objects.
@@ -227,6 +229,13 @@ int main( int argc, char *argv[] )
                                         "normal_shader.fsh");
     d_myGLSL->loadShaders();    // read in the shader files' contents
     d_myGLSL->compileProgram(); // compile and link the program for the GPU,
+
+    // Get GLSL uniforms
+    start_l = glGetUniformLocation(p_myGLSL->getProgramID(), "start_l");
+    end_l = glGetUniformLocation(p_myGLSL->getProgramID(), "end_l");
+
+    glUniform1i(start_l, 0);
+    glUniform1i(end_l, 1);
 
 // =============================================================================
 // Next, a rare and wonderful bit of help on debugging your shaders, found here:
